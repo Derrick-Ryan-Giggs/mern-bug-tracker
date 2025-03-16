@@ -23,7 +23,7 @@ A full-stack bug tracking application built with the MERN stack (MongoDB, Expres
 - React.js (Vite)
 - React Router
 - Tailwind CSS
-- Jest & React Testing Library (for testing)
+- vitest
 
 ## Project Structure
 
